@@ -1,3 +1,3 @@
 These files are for learning purpose.
-Queensland Academy of Technology.
+Queensland University of Technology.
 Sem 2 - 2024 - Brisbane Austrealia
